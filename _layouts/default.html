@@ -18,13 +18,13 @@
       <div class="inner">
 
         <header>
-          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+          <h1>{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         </header>
         <section id="downloads" class="clearfix">
-          <a href="https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum.epub" id="download-zip" class="button"><span>Download ePub</span></a>
-          <a href="https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum_nofonts.epub" id="download-tar-gz" class="button"><span>Download ePub</span></a>
-          <a href="https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum.pdf" id="view-on-github" class="button"><span>Download PDF</span></a>
+          <a href="https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum.epub" class="button"><span>ePub document</span></a>
+          <a href="https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum_nofonts.epub" class="button"><span>ePub without fonts</span></a>
+          <a href="https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum.pdf"  class="button"><span>PDF document</span></a>
         </section>
         <hr>
         <section id="main_content">
