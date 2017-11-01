@@ -28,8 +28,4 @@ Of course, translations and other derivative works from such text are granted ne
 
 ## Comments
 
-Please, [open an issue](https://github.com/ousia/novum-testamentum/issues/new).
-
-Remember that prior registration to _GitHub_ is required.
-
-And don’t forget that all comments are public.
+Please, [open an issue](https://github.com/ousia/novum-testamentum/issues/new). Remember that prior registration to _GitHub_ is required. And don’t forget that all comments are public.
