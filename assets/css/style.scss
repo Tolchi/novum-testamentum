@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-tactile";
+@import "{{ site.theme }}";
 
 a.button {
   width: 100px;
