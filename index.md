@@ -16,7 +16,7 @@ There are three files offered for download:
 
     You are on your own. If not all characters are displayed, please download the previous option.
 
-* [PDF document (756KB)](https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum.pdf).
+* [PDF document (616KB)](https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum.pdf).
 
     Not intended for printing. Just provided for your viewing convenience.
 
