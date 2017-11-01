@@ -6,11 +6,19 @@ This website offers the electronic version of the original text of the Greek New
 
 The text provided here is the text from the Greek New Testament edited by Nestle–Aland. This is considered the most accurate critical edition from the New Testament.
 
-There are two files offered for download:
+There are three files offered for download:
 
-* [ePub document with polytonic font embedded (1MB)](https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum.epub). Download this file, unless you know for sure your system can display readable polytonic Greek glyphs.
+* [ePub document with polytonic font embedded (1MB)](https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum.epub).
+
+    Download this file, unless you know for sure your system can display readable polytonic Greek glyphs.
 
 * [ePub document with no embedded font (756KB)](https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum_nofonts.epub).
+
+    You are on your own. If not all characters are displayed, please download the previous option.
+
+* [PDF document (756KB)](https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum.pdf).
+
+    Not intended for printing. Just provided for your viewing convenience.
 
 ## Copyright Status
 
