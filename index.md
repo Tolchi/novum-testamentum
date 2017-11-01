@@ -16,7 +16,7 @@ There are three files offered for download:
 
     You are on your own. If not all characters are displayed, please download the previous option.
 
-* [PDF document (616KB)](https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum.pdf).
+* [PDF document (1.5MB)](https://raw.githubusercontent.com/ousia/novum-testamentum/master/novum-testamentum.pdf).
 
     Not intended for printing. Just provided for your viewing convenience.
 
@@ -28,4 +28,8 @@ Of course, translations and other derivative works from such text are granted ne
 
 ## Comments
 
-Please, [open an issue](https://github.com/ousia/novum-testamentum/issues/new). Remember that prior registration to _GitHub_ is required. And don’t forget that all comments are public.
+Please, [open an issue](https://github.com/ousia/novum-testamentum/issues/new).
+
+Remember that prior registration to _GitHub_ is required.
+
+And don’t forget that all comments are public.
