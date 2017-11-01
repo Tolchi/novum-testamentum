@@ -4,12 +4,9 @@
 @import "{{ site.theme }}";
 
 a.button {
-  width: 100px;
+  width: 150px;
   text-align: center;
 }
 a.button span {
   padding: 0%,
 }
-
-p + p { margin-top: 15%; }
-
